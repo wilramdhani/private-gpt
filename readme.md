@@ -1,4 +1,4 @@
-# Private GPT Chatbot - Installation and Usage Guide
+# Talita Chatbot - Installation and Usage Guide
 
 Talita Chatbot is an AI-powered conversational agent that can answer questions based on text data extracted from PDF files. Follow the instructions below to install and run the Python script.
 
