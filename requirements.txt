@@ -1,0 +1,4 @@
+langchain
+langchain-community
+PyPDF2
+langid
