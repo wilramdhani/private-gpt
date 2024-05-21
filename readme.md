@@ -7,7 +7,7 @@ Talita Chatbot is an AI-powered conversational agent that can answer questions b
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/wilramdhani/private-gpt.git
    ```
 
 2. Navigate to the project directory:
